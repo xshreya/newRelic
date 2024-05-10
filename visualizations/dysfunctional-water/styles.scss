@@ -1,0 +1,29 @@
+.EmptyState,
+.ErrorState {
+    height: 100%;
+    text-align: center;
+    &-cardBody {
+        height: 100%;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+.ErrorState-headingText {
+    color: darkgrey;
+}
+
+.heading h1{
+    padding:20px;
+    display: flex;
+    justify-content: center;
+}
+
+.heading h2{
+    padding:20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}

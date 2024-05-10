@@ -1,0 +1,27 @@
+.nr1-4b8ced33-bee9-402f-b086-5a5c94a85193 .EmptyState,.nr1-4b8ced33-bee9-402f-b086-5a5c94a85193 .ErrorState{
+  height:100%;
+  text-align:center;
+}
+.nr1-4b8ced33-bee9-402f-b086-5a5c94a85193 .EmptyState-cardBody,.nr1-4b8ced33-bee9-402f-b086-5a5c94a85193 .ErrorState-cardBody{
+  height:100%;
+  box-sizing:border-box;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+
+.nr1-4b8ced33-bee9-402f-b086-5a5c94a85193 .ErrorState-headingText{
+  color:#a9a9a9;
+}
+
+.nr1-4b8ced33-bee9-402f-b086-5a5c94a85193 .heading h1,.nr1-4b8ced33-bee9-402f-b086-5a5c94a85193 .heading h2{
+  padding:20px;
+  display:flex;
+  justify-content:center;
+}
+
+.nr1-4b8ced33-bee9-402f-b086-5a5c94a85193 .heading h2{
+  margin-top:30px;
+}
+
+/*# sourceMappingURL=https://cli-assets.service.datanerd.us/artifact-index-production/4b8ced33-bee9-402f-b086-5a5c94a85193/det/4b8ced33-bee9-402f-b086-5a5c94a85193--styles~ed739428.css.map*/
